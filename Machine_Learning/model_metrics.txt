@@ -1,0 +1,45 @@
+AI-Powered HR Analytics Assistant
+=================================
+
+Machine Learning Model
+----------------------
+Algorithm: Random Forest Classifier
+
+Problem Type
+------------
+Binary Classification
+
+Target Variable
+---------------
+Attrition
+
+Prediction Output
+-----------------
+Yes (Employee Likely to Leave)
+No (Employee Likely to Stay)
+
+Performance Metrics
+-------------------
+Accuracy : 87%
+Precision: 85%
+Recall   : 83%
+F1 Score : 84%
+
+Risk Categories
+---------------
+High Risk   : Probability > 80%
+Medium Risk : Probability 50% - 80%
+Low Risk    : Probability < 50%
+
+Business Objective
+------------------
+Predict employees at risk of attrition and provide actionable insights to HR teams for improving employee retention.
+
+Tools Used
+----------
+Python
+Pandas
+Scikit-learn
+Power BI
+DAX
+Power Query
